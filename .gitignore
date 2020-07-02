@@ -6,8 +6,7 @@
 .pnp.js
 .firebaserc
 firebase.json
-/dist
-/functions
+
 
 # testing
 /coverage
@@ -28,3 +27,4 @@ yarn-error.log*
 
 fbConfig.js
 js.js
+.env
