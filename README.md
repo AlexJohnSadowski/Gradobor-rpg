@@ -17,5 +17,4 @@
 * Adding experience system  :x:
 * Adding taverns  :x:
 * Adding message board for adventures  :x:
-* Improving security  :x:
 * Once Beta will be released -> new hosting  :x:
