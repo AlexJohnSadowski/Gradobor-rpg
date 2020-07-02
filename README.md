@@ -1,68 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#   :new_moon: Gradobor  :full_moon:
 
-## Available Scripts
+## Gradobor is a text-based rpg game where the whole concept is based on interactions between users - you create your own character, and then move on to talk in the tavern, or go on a big adventure with other users! You choose!
 
-In the project directory, you can run:
+### Technologies used: React, React Router, Redux, Firebase (authentication, databases, firebase cloud)
 
-### `npm start`
+#### At the moment the game is still in the alpha phase, but additional features will be gradually added to the game. Most of the stuff on the backend is already done and ready to be deployed, so... now I just need to find some time and add it to the front-end  :ok_hand:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Game is still not ready, but if you want to take a look how it will look like - https://gradobor-rpg.web.app/
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+#### Changes (I will update this section once I'm finished with something):
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* MVP front-end created; design of most of the elements made in photoshop  :white_check_mark:
+* Created a fully-working back-end - authentication, databases and firebase cloud notification system  :white_check_mark:
+* Adding advanced hero creator  :x:
+* Adding experience system  :x:
+* Adding taverns  :x:
+* Adding message board for adventures  :x:
+* Improving security  :x:
+* Once Beta will be released -> new hosting  :x:
