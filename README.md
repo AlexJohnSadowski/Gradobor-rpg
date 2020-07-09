@@ -6,9 +6,11 @@
 
 #### At the moment the game is still in the alpha phase, but additional features will be gradually added to the game. Most of the stuff on the backend is already done and ready to be deployed, so... now I just need to find some time and add it to the front-end  :ok_hand:
 
+#### Game is still not ready, but if you want to take a look how it will look like - https://gradobor-rpg.web.app/
+
 ## :x: Currently Firebase screwed me up, cuz Cloud functions ain't free anymore, so will migrate some of the functions somewhere else... Working on it! :x:
 
-#### Game is still not ready, but if you want to take a look how it will look like - https://gradobor-rpg.web.app/
+
 
 
 #### Changes (I will update this section once I'm finished with something):
